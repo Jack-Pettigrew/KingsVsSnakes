@@ -1,0 +1,192 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\monke\Desktop\KINGS VS SNAKES\Assignment\KINGS VS SNAKES\KvS\Build 6\Build 6_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.579627 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.833144 ms
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 843.
+Total: 1.878226 ms (FindLiveObjects: 0.037470 ms CreateObjectMapping: 0.024297 ms MarkObjects: 0.137588 ms  DeleteObjects: 1.677991 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.497366 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 843.
+Total: 0.185597 ms (FindLiveObjects: 0.035714 ms CreateObjectMapping: 0.014637 ms MarkObjects: 0.130855 ms  DeleteObjects: 0.003805 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The referenced script on this Behaviour (Game Object 'Ramp') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Ramp (1)') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.425059 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 0.233900 ms (FindLiveObjects: 0.040398 ms CreateObjectMapping: 0.026053 ms MarkObjects: 0.134368 ms  DeleteObjects: 0.032494 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.259664 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 744.
+Total: 0.298888 ms (FindLiveObjects: 0.046253 ms CreateObjectMapping: 0.032786 ms MarkObjects: 0.175937 ms  DeleteObjects: 0.042447 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.803866 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 744.
+Total: 0.255562 ms (FindLiveObjects: 0.045374 ms CreateObjectMapping: 0.029859 ms MarkObjects: 0.173888 ms  DeleteObjects: 0.005854 ms)
+
+Works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Triggered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.387881 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 846.
+Total: 1.365929 ms (FindLiveObjects: 0.023126 ms CreateObjectMapping: 0.014344 ms MarkObjects: 0.104801 ms  DeleteObjects: 1.223364 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The referenced script on this Behaviour (Game Object 'Ramp') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Ramp (2)') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Ramp (3)') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Ramp (1)') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.445844 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2327.
+Total: 0.326113 ms (FindLiveObjects: 0.059426 ms CreateObjectMapping: 0.046545 ms MarkObjects: 0.183841 ms  DeleteObjects: 0.036007 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698480 ms
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 0.951993 ms (FindLiveObjects: 0.021662 ms CreateObjectMapping: 0.014344 ms MarkObjects: 0.091920 ms  DeleteObjects: 0.823480 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.347190 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 492.
+Total: 0.835775 ms (FindLiveObjects: 0.016100 ms CreateObjectMapping: 0.013173 ms MarkObjects: 0.102459 ms  DeleteObjects: 0.703749 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1e7c -> priority: 1 
