@@ -12,11 +12,11 @@ Background Images
 - Forest: http://wallpapersonthe.net/18127-pixel-art/ 
 - Morning: http://imgur.com/gallery/ORa27 
 - Rocky Waterfall: http://wallpapersonthe.net/29902-pixel-art-waterfall/ 
-- Temple Inside: http://www.dogdrip.net/?mid=dogdrip&search_target=title&search_keyword=%EB%A 1%A4%EC%A3%BC%EC%9D%98&m=1&page=1&division=28622234&document_srl=81179937 
+- Temple Inside: http://www.dogdrip.net/?mid=dogdrip&search_target=title&search_keyword=%EB%A1%A4%EC%A3%BC%EC%9D%98&m=1&page=1&division=28622234&document_srl=81179937 
 - Temple Outside: https://archive.nyafuu.org/wg/thread/6351094/ 
 
-Voice Actor/ Sound Effects 
-- Joy Adcock 
+Voice Actor/Sound Effects 
+- Joy Adcock
 
 Music 
 - Revenge_of_the_Atari_Overlords: http://teknoaxe.com/Link_Code_3.php?q=1133 
